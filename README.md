@@ -11,4 +11,3 @@ Esse é um portfolio que possui informações sobre educação, habilidades (té
 
 - `HTML`
 - `CSS`
-- `JavaScript`
