@@ -9,13 +9,6 @@ Esse é um portfolio que possui informações sobre educação, habilidades (té
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver as páginas.
-
-`CSS`: Utilizado para estilização da interface.
-
-`JavaScript`: Linguagem de programação utilizada para desenvolver a lógica e animações.
-
-
-## 🚧 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
+- `HTML`
+- `CSS`
+- `JavaScript`
