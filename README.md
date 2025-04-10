@@ -5,7 +5,7 @@
 
 ## 📑 Descrição
 
-Esse é um portfolio que possui informações sobre educação, habilidades (técnicas e pessoais), idiomas, projetos e experiência profissional.
+Portfolio que possui informações sobre educação, habilidades (técnicas e pessoais), idiomas, projetos e experiência profissional.
 
 ## 💻 Tecnologias 
 
